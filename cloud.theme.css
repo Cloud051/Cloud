@@ -19,15 +19,15 @@
 	--accent-opacity: 1;
 	--accent-text-color: #fff;
 
-  	--message-color: transparent;
+  	--message-color: none;
   	--message-radius: 8px;
   	--message-padding-side: 4px;
   	--message-padding-top: 0px;
   	--message-hover-color: rgba(0, 0, 0, 0.05);
 
-  	--reply-hue: transparent;
+  	--reply-hue: none;
   	--reply-saturation: 70%;
 	--reply-lightness: 60%;
 	--reply-opacity: 1;
-	--mention-opacity: 0.25;
+	--mention-opacity: none;
 }
