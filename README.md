@@ -15,3 +15,4 @@
 3. Enable transparent window in Vencord/BetterDiscord settings.
 ![Screenshot_2](https://github.com/user-attachments/assets/f5e19992-7e10-4add-81ef-147ccdb4cabd)
 4. Reload Discord.
+5. Drag `cloud.theme.css` to your Vencord/BetterDiscord theme folder.
