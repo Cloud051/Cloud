@@ -2,7 +2,7 @@
 ## A transparent theme for BetterDiscord modded from [Translucence](https://betterdiscord.app/theme/Translucence).
 
 # Preview:
-![image](![Screenshot_1](https://github.com/user-attachments/assets/fdf745e6-dee8-4078-8908-baaddd87d96d)
+![Screenshot_1](https://github.com/user-attachments/assets/fdf745e6-dee8-4078-8908-baaddd87d96d)
 ))
 
 # Requirements:
