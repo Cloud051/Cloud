@@ -1,5 +1,5 @@
 # Cloud
-## A transparent theme for BetterDiscord modded from [Translucence](https://betterdiscord.app/theme/Translucence).
+## A transparent theme for Vencord/BetterDiscord modded from [Translucence](https://betterdiscord.app/theme/Translucence).
 
 # Preview:
 ![Screenshot_3](https://github.com/user-attachments/assets/6adcfd92-4825-4d9c-b1d8-029127dafcfe)
