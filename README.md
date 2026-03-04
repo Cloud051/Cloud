@@ -2,7 +2,8 @@
 ## A transparent theme for BetterDiscord modded from [Translucence](https://betterdiscord.app/theme/Translucence).
 
 # Preview:
-![image]([https://prnt.sc/1RZjnsydFXVJ](https://prnt.sc/1RZjnsydFXVJ))
+![image](![Screenshot_1](https://github.com/user-attachments/assets/fdf745e6-dee8-4078-8908-baaddd87d96d)
+))
 
 # Requirements:
 - [BetterDiscord](https://betterdiscord.app/)
@@ -13,5 +14,5 @@
 1. Download the repo.
 2. Extract the file.
 3. Enable transparent window in Vencord/BetterDiscord settings.
-! [image]([https://prnt.sc/uEbmmNdZ9fSi](https://prnt.sc/uEbmmNdZ9fSi))
+! [image](![Screenshot_2](https://github.com/user-attachments/assets/f5e19992-7e10-4add-81ef-147ccdb4cabd))
 4. Reload Discord.
