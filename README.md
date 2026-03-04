@@ -3,7 +3,6 @@
 
 # Preview:
 ![Screenshot_1](https://github.com/user-attachments/assets/fdf745e6-dee8-4078-8908-baaddd87d96d)
-))
 
 # Requirements:
 - [BetterDiscord](https://betterdiscord.app/)
