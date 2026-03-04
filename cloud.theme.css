@@ -9,20 +9,24 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: transparent;	
+	--app-bg: rgba(0, 0, 0, 0.03) !important;
 	--app-margin: 0px;
 	--app-radius: 8px;
 	--accent-hue: 260;
-	--accent-saturation: 72.3%;
-	--accent-lightness: 68.8%;
+	--accent-saturation: 70%;
+	--accent-lightness: 68%;
 	--accent-opacity: 1;
 	--accent-text-color: #fff;
 
-  --message-color: rgba(transparent);
-  --message-radius: 8px;
-  --message-padding-side: 4px;
-  --message-padding-top: 0px;
-  --message-hover-color: rgba(0, 0, 0, 0.05);
+  	--message-color: rgba(transparent);
+  	--message-radius: 8px;
+ 	 --message-padding-side: 4px;
+  	--message-padding-top: 0px;
+  	--message-hover-color: rgba(0, 0, 0, 0.05);
 
-  --reply-hue: transparent;
+  	--reply-hue: transparent;
+  	--reply-saturation: 70%;
+	--reply-lightness: 60%;
+	--reply-opacity: 1;
+	--mention-opacity: 0.25;
 }
