@@ -1,0 +1,28 @@
+/**
+ * @name Cloud
+ * @author c.dl.
+ * @version 1.0.0
+ * @description Transparence Theme
+ * @source 
+*/
+
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+
+:root {
+	--app-bg: transparent;	
+	--app-margin: 0px;
+	--app-radius: 8px;
+	--accent-hue: 260;
+	--accent-saturation: 72.3%;
+	--accent-lightness: 68.8%;
+	--accent-opacity: 1;
+	--accent-text-color: #fff;
+
+  --message-color: rgba(transparent);
+  --message-radius: 8px;
+  --message-padding-side: 4px;
+  --message-padding-top: 0px;
+  --message-hover-color: rgba(0, 0, 0, 0.05);
+
+  --reply-hue: transparent;
+}
