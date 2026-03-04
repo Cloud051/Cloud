@@ -14,5 +14,5 @@
 1. Download the repo.
 2. Extract the file.
 3. Enable transparent window in Vencord/BetterDiscord settings.
-! [image](![Screenshot_2](https://github.com/user-attachments/assets/f5e19992-7e10-4add-81ef-147ccdb4cabd))
+![Screenshot_2](https://github.com/user-attachments/assets/f5e19992-7e10-4add-81ef-147ccdb4cabd)
 4. Reload Discord.
