@@ -9,7 +9,6 @@
 - [Vencord](https://vencord.dev/)
 
 # Installation:
-#### Theme
 1. Download the repo.
 2. Extract the file.
 3. Enable transparent window in Vencord/BetterDiscord settings.
